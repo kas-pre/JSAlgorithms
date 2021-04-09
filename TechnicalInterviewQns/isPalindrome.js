@@ -35,6 +35,7 @@ arr = [ 'The quick brown fox jumped over the sleeping dog', 'oozy rat in a sanit
 palindromeChecker(arr);
 
 // Find palindromes; string reversal returns same value
+// Number same forward as it is backwards
 
 // Reverse string
 // Check with original string if they are the same
